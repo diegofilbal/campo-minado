@@ -1,7 +1,6 @@
 # Campo Minado
-##### (Atividade realizada para a Disciplina de Introdução às Técnicas de Programação)
 
-### Instruções:
+***Instruções:***
 
 Essa semana vocês vão implementar um jogo de campo minado! Nunca jogou? Pois
 corra aqui: http://minesweeperonline.com/#
@@ -54,8 +53,7 @@ aleatórias do tabuleiro, e um tabuleiro totalmente escondido será printado par
 
 O jogador terá duas ações para fazer no mapa: escolher uma posição X,Y para abrir,
 ou escolher uma posição X,Y para marcar como bomba. As linhas de comando do jogador
-terão o seguinte formato: 
-### X Y ACAO
+terão o seguinte formato: **X Y ACAO**
   
 **1 1 B** - marca a posição 1,1 da matriz com uma bomba (correspondente a colocar uma
 bandeira para sinalizar o perigo da posição).
