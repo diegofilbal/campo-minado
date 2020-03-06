@@ -117,25 +117,6 @@ B | \* | \* | \* | \* | \* | \* | \* | \*
 \* | \* | \* | \* | \* | \* | \* | \* | \*
 ---|----|----|----|----|----|----|----|---
 
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* 3 \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
-\* \* \* \* \* \* \* \* \*
-
 Seu programa deve simular um jogo de campo minado até que o jogador consiga
 abrir todas as casas que não possuem bombas, ou clicar em uma bomba e ser derrotado.
 Joguem um pouco o campo minado online para entender bem as regras do jogo, e mandem
